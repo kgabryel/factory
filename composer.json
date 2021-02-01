@@ -1,0 +1,13 @@
+{
+  "name": "frankie/factory",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\Factory\\": "src"
+    }
+  },
+  "require": {
+    "frankie/response": "^1.0",
+    "ext-json": "*",
+    "ext-simplexml": "*"
+  }
+}
